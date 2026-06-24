@@ -1,0 +1,25 @@
+*{
+    font-size: 20px;
+    
+}
+body{
+    margin: auto;
+    background-color: lightgray;
+}
+a{
+    margin-left:50px ;
+    color: black;
+}
+
+.menu-container{
+    background-color: white;
+    padding: 25px;
+    
+}
+
+.info-container{
+    background-color: black;
+    margin: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
